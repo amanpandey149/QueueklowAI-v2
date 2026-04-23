@@ -44,7 +44,7 @@ QueueFlow AI predicts congestion and dynamically manages crowd flow by directing
 ---
 
 ## 🌍 Live Demo
-👉 https://your-netlify-link.netlify.app/
+👉https://queueklowai.netlify.app/
 
 ---
 
