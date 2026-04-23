@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+const initApp = () => {
     
     // Core Elements
     const body = document.body;
@@ -408,4 +408,10 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
-});
+};
+
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initApp);
+} else {
+    initApp();
+}
