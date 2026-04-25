@@ -1,37 +1,44 @@
-# 🚀 QueueFlow AI
-
-An intelligent crowd management system designed to optimize and control large-scale event entry using AI-based logic and real-time simulation.
-
----
+# 🚀 QueueFlow AI – Intelligent Crowd Management System
 
 ## 🔍 Problem Statement
-Managing large crowds at events such as stadiums, festivals, and public gatherings is extremely challenging. Issues like long queues, uneven gate distribution, lack of real-time monitoring, and poor emergency handling can lead to delays and serious safety risks.
+Managing large crowds at events such as concerts, stadiums, and public gatherings is a major challenge. Traditional systems are reactive, leading to long queues, uneven gate distribution, lack of real-time monitoring, and serious safety risks like overcrowding or stampedes.
 
 ---
 
 ## 💡 Solution
-QueueFlow AI predicts congestion and dynamically manages crowd flow by directing people to optimal gates, ensuring safety and efficiency.
+QueueFlow AI is an AI-driven system that proactively manages and optimizes crowd movement in real time. It predicts congestion before it occurs and dynamically distributes crowd flow across multiple gates.
 
 ---
 
-## 🔥 Features
-- 📊 Predictive Heatmap (Crowd Stress Levels)
-- 🚪 Smart Gate Recommendation System
-- ⏱️ Real-time Wait Time & Throughput Tracking
-- 🧾 QR Code Validation (Duplicate / Expired Detection)
-- 🚨 Emergency Override & Evacuation Mode
-- 🎤 Voice AI Feedback System
-- 🌐 Multi-language Support
-- 📡 IoT Sensor Monitoring
-- 📈 Live Analytics Dashboard
+## ⚙️ How It Works
+1. User selects event type and enters crowd size  
+2. System analyzes crowd density and gate capacity  
+3. AI suggests the best gate for entry  
+4. Dashboard shows real-time data (stress level, wait time, throughput)  
+5. QR-based entry pass is generated  
+6. Pass can be downloaded as a PDF  
+7. Each pass is validated and can be used only once  
+8. Emergency mode redirects crowd instantly  
 
 ---
 
-## 🎯 Impact
-- Reduces waiting time  
-- Prevents overcrowding  
-- Improves safety in large events  
-- Enables smart decision-making  
+## 🔥 Key Features
+- Predictive Heatmap (Green / Yellow / Red)  
+- Smart Gate Recommendation  
+- QR Code Validation (One-time use)  
+- PDF Pass Generation  
+- Emergency Override Mode  
+- Voice AI Feedback  
+- Multi-language support (English / Hindi / Gujarati)  
+- Real-time Analytics Dashboard  
+
+---
+
+## 🎯 Objective
+- Improve crowd safety  
+- Reduce waiting time  
+- Prevent overcrowding  
+- Enable smart decision-making  
 
 ---
 
@@ -39,18 +46,24 @@ QueueFlow AI predicts congestion and dynamically manages crowd flow by directing
 - HTML  
 - CSS  
 - JavaScript  
-- AI-based Logic (Simulation)
+- AI Logic (Simulation)  
 
 ---
 
-## 🌍 Live Demo
-👉https://queueklowai.netlify.app/
+## 🌐 Live Demo
+👉 https://queueklowai.netlify.app/
 
 ---
 
-## 📸 Screenshots
-<img width="1911" height="971" alt="image" src="https://github.com/user-attachments/assets/3a2f17ac-9b52-42cd-98b7-c87c47cefe4c" />
+## 📂 GitHub Repository
+👉 https://github.com/amanpandey149/QueueklowAI-v2
 
+---
+
+## 🧠 Assumptions
+- Crowd data is simulated  
+- Gate capacity is predefined  
+- AI logic is based on calculated throughput  
 
 ---
 
@@ -59,5 +72,5 @@ Aman Kumar Pandey
 
 ---
 
-## ⭐ Feedback
-Feel free to give suggestions or improvements!
+## ⭐ Note
+This project is built as part of a hackathon to demonstrate smart crowd management using AI concepts and real-time simulation.
